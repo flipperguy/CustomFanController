@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">custom-fan-controller-work</string>
+    <string name="customViewLabel">Fan Control</string>
+</resources>
